@@ -39,6 +39,7 @@ dependencies:
   js: any
   http: ^0.13.5
   syncfusion_flutter_calendar: ^20.3.60
+  flutter_clean_calendar: ^1.1.0
 
 dev_dependencies:
   flutter_test:
